@@ -61,7 +61,7 @@ header.shadow .logo{
     padding: 18px 0;
 }
 .logo{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: var(--bg-color);
 }
@@ -71,7 +71,6 @@ header.shadow .logo{
 .home{
     width: 100%;
     min-height: 440px;
-    background-image: url("/img/back.jpg");
     background-color: var(--container-color);
     display: grid;
     justify-content: center;
